@@ -62,7 +62,6 @@ This is the text I submitted:
 > 
 > Could you please help with increasing the allotted quotas so that we will be able to run up to 45 m3.large instances concurrently on this allocation, including cores, ram, volume, ports, available IP addresses, and whatever other magic you folks take care of that i'm naive to?
 > 
-> Thank you for any help!
+> Thank you for any help!  
 > -Mike
 
----
