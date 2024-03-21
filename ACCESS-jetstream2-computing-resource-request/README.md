@@ -60,7 +60,7 @@ This is the text I submitted:
 >
 > We plan to use this allocation (BIO240084) with around 45 concurrent m3.large instances for a bioinformatics course we are running. The starting limits cap us at 10.
 > 
-> Could you please help with increasing the alloted quotas so that we will be able to run up to 45 m3.large instances concurrently on this allocation, including cores, ram, volume, ports, available IP addresses, and whatever other magic you folks take care of that i'm naive to?
+> Could you please help with increasing the allotted quotas so that we will be able to run up to 45 m3.large instances concurrently on this allocation, including cores, ram, volume, ports, available IP addresses, and whatever other magic you folks take care of that i'm naive to?
 > 
 > Thank you for any help!
 > -Mike
