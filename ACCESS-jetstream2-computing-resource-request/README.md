@@ -1,7 +1,7 @@
 # Application submission info
 
 ---
-> Submitted on 20-Mar-2024.
+> Submitted on 20-Mar-2024, approved 21-Mar-2024.
 ---
 
 Submitted through ACCESS: https://access-ci.org/
@@ -46,10 +46,23 @@ Then selecting to "Request New Project", and choosing "Request an Explore ACCESS
 
 ---
 
-**NOTE**
+## After getting accepted
 
+### Transferring credits from ACCESS to Jetstream2
 Once approved, and logged in, needed this page (https://allocations.access-ci.org/requests) in order to transfer ACCESS credits to a specific resource. For the appropriate allocation/Project, selected "Credits + Resources", then the text box that initially says "Add a resource to your exchange...", then selected "Indiana Jetstream2 CPU", then entered 196,000. Then for "Indiana Jetstream2 Storage" added the remaining 4,000, giving 4 TB of shared storage to use.
 
-The allocation also comes with a limit on the number of concurrent instances that can be run. I submitted a help ticket with the option at the top of the page (https://allocations.access-ci.org/) requesting all required quota limits be increased to enable up to 40 to be run concurrently.
+### Requesting increase in quotes
+The allocation also comes with a limit on the number of concurrent instances that can be run. I submitted a request when logged into Jetstream2 here: https://jetstream2.exosphere.app/exosphere/getsupport
+
+This is the text I submitted:
+
+> Hi there :)
+>
+> We plan to use this allocation (BIO240084) with around 45 concurrent m3.large instances for a bioinformatics course we are running. The starting limits cap us at 10.
+
+Could you please help with increasing the alloted quotas so that we will be able to run up to 45 m3.large instances concurrently on this allocation, including cores, ram, volume, ports, available IP addresses, and whatever other magic you folks take care of that i'm naive to?
+
+Thank you for any help!
+-Mike
 
 ---
