@@ -46,7 +46,7 @@ Then selecting to "Request New Project", and choosing "Request an Explore ACCESS
 
 ---
 
-> **NOTE**
+**NOTE**
 
 Once approved, and logged in, needed this page (https://allocations.access-ci.org/requests) in order to transfer ACCESS credits to a specific resource. For the appropriate allocation/Project, selected "Credits + Resources", then the text box that initially says "Add a resource to your exchange...", then selected "Indiana Jetstream2 CPU", then entered 196,000. Then for "Indiana Jetstream2 Storage" added the remaining 4,000, giving 4 TB of shared storage to use.
 
